@@ -1,6 +1,6 @@
 # Hi there 👋, This Is AliReza ...
 
-**I'm AliReza, and I do content on Design and Development. I really enjoy learning languages and frameworks like React and React Native and etc.**
+**I'm AliReza, and I do content on Design and Development. I really enjoy learning languages and frameworks like js, ts, Reactjs, nextjs and etc.**
 
 
 - 😄 student of BUT.
